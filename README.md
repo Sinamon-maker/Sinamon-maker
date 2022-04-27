@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am React/React-native developer 👋
 
 <!--
 **Sinamon-maker/Sinamon-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 *   JavaScript (ES6), HTML, CSS
 *   React, React-native, Next.js frameworks
 *   Node.js(Express)
-*   MySQL,MongoDB, WatermelonDB
+*   MySQL, MongoDB, WatermelonDB
 *   GitHub/GitLab/
 
 ### My pet projects
