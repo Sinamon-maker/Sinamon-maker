@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 *   [sales](https://github.com/Sinamon-maker/sale) - application for mobile phones -sale things.
 *   [hotel](https://github.com/Sinamon-maker/hotel) - hotel-WEB-application - booking 
 *   [backend](https://github.com/Sinamon-maker/nodetraining) - my experiments
-*   [ssrNext](https://github.com/Sinamon-maker/blogPosts)) - my experiments
+*   [ssrNext](https://github.com/Sinamon-maker/blogPosts) - my experiments
 
 
