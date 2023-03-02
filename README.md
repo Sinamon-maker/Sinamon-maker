@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 *   React/Node.js-developer LTD Pulkovo-Express 2021-07 - 2021-08 
 
 ## 🛠 Technical Stack
-*   JavaScript (ES6), HTML, CSS
+*   JavaScript (ES6), HTML, CSS, Typescript
 *   React, React-native, Next.js frameworks
 *   Node.js(Express)
 *   MySQL, MongoDB, WatermelonDB
