@@ -46,7 +46,8 @@ Here are some ideas to get you started:
 ### My pet projects
 
 *   [sales](https://github.com/Sinamon-maker/sale) - application for mobile phones -sale things.
-*   [hotel](https://github.com/Sinamon-maker/hotel) - hotel-WEB-application - booking 
+*   [burgersale](https://github.com/Sinamon-maker/burgersale) - app for selling burgers (react/redux) 
+*   [Barbershop](https://github.com/Sinamon-maker/Barbershop) - app for making appointment for hearcut (js) 
 *   [backend](https://github.com/Sinamon-maker/nodetraining) - my experiments
 *   [ssrNext](https://github.com/Sinamon-maker/blogPosts) - my experiments
 
