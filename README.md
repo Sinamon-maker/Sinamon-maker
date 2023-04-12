@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 *   [Barbershop](https://github.com/Sinamon-maker/Barbershop) - app for making appointment for hearcut (js)
 *   [ListTasks](https://github.com/Sinamon-maker/todotypescript) - app for writing notes to do/learn (react/typescript/tilewind/firebase)
 *   [backend](https://github.com/Sinamon-maker/nodetraining) - my experiments
-*   [live-chat](https://github.com/Sinamon-maker/live-chat) (https://dojo-blog-f8767.web.app/) - (Vue, authentification, firebase)
+*   [live-chat] (https://dojo-blog-f8767.web.app/) - (Vue, authentification, firebase)
+*   [live-chat code] (https://github.com/Sinamon-maker/live-chat) - (Vue, authentification, firebase)
 
 
