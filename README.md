@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 
 ### Key points
-* Side project (part-time) (Nuxt, Vee validate, RadixVue, ) - volunteering project - working according to SCRUM methodology, using Nuxt for SEO, choosing appropriate tools for Ui, validation, and applying them in project
+* Side project (part-time) (Nuxt, Vee validate, RadixVue, ) - volunteering project - working according to SCRUM methodology, using Nuxt for SEO, choosing appropriate tools for Ui, validation, and applying them in project 2024 -01 - present time
 *  React-native developer (startup in rent property PRentals) (Nextjs, TanStak Query, ReactHookForm, Typescript, React-native, Formik, Storybook, RadixUi, Tailwind, Framer motion, I18, Yup) -
   developing user interface with Radix, creating forms using React Hook Forms and Yup validation with complicated logic for logging, filtering, and creating objects without using state manager. Using Tanstack query for 
-  caching data from the server. 
+  caching data from the server 2023 -06 - 2024-01
 *   React-native-developer [Epam Systems](https://www.linkedin.com/company/epam-systems/) 2021-10 - 2022-04
 *   React/Node.js-developer LTD Pulkovo-Express 2021-07 - 2021-08 
 
